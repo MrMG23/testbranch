@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Farmacode">
-        <activity android:name=".drug.DrugActivity"></activity>
+        <activity android:name=".TestActivity"></activity>
+        <activity android:name=".drug.DrugActivity" />
         <activity android:name=".patient.PatientActivity" />
         <activity android:name=".scanner.ScannerActivity" />
         <activity android:name=".onboarding.OnBoardingActivity" />
